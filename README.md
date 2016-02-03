@@ -17,5 +17,5 @@ AppDomain-com.tencent.xin | 微信
 AppDomain-com.tencent.QQMusic | QQ音乐
 AppDomain-com.tencent.mqq | 手机QQ
 
-## PS
-用途你懂的~ ;)
+## 用途
+你懂的~ ;)
