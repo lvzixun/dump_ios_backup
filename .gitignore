@@ -1,0 +1,5 @@
+*.so.dSYM
+*.mbdb
+*.py
+AppDomain-com.tencent.xin
+*so
